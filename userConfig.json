@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "GKKUrw3gBJNeCFWkKusQKb8FDGiC2Hpjfp8KnjgzPofT"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_s0ptcKQ3VQppIyt3lWL5ubSgqJZfoX0VGCV",
+  "serviceFee": 2,
+  "currencyOption": "SOL",
+  "name": "NFTPahlawan",
+  "logo": "https://collections.mirrorworld.fun/1678162428199-IMG-20230204-WA0010.jpg"
 }
