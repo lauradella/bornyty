@@ -1,11 +1,11 @@
 {
   "collections": [
-    "GKKUrw3gBJNeCFWkKusQKb8FDGiC2Hpjfp8KnjgzPofT"
+    "9GHL89jA4bDoLbShKMzKDy7M5fnXuFj6xu26BUFveKTb"
   ],
   "network": "devnet",
-  "xApiKey": "mw_s0ptcKQ3VQppIyt3lWL5ubSgqJZfoX0VGCV",
-  "serviceFee": 2,
-  "currencyOption": "SOL",
-  "name": "NFTPahlawan",
+  "xApiKey": "mw_DxyMUPwv3DXi3Q3EeAsV214r0Pb7yYaREKh",
+  "serviceFee": 2.5,
+  "currencyOption": "USDC",
+  "name": "BungaNFT",
   "logo": "https://collections.mirrorworld.fun/1678162428199-IMG-20230204-WA0010.jpg"
 }
